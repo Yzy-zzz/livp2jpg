@@ -1,2 +1,2 @@
 # livp2jpg
-IPHONE
+将livp格式的图片转化为jpg
