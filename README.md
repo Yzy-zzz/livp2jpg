@@ -11,3 +11,8 @@
 ### main
 结合了二者
 
+#### ncm to flac 
+https://ncm.worthsee.com/
+
+#### flac to mp3
+https://convertio.co/zh/flac-mp3/
