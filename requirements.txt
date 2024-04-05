@@ -1,7 +1,5 @@
-os
-PIL
-cv2
-shutil
+Pillow
+opencv-python
 numpy
 tqdm
-pillow_heif
+pillow-heif
