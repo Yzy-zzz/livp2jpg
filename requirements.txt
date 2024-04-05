@@ -1,7 +1,7 @@
-import os
-from PIL import Image
-import cv2
-import shutil
-import numpy as np
-from tqdm import tqdm
-import pillow_heif
+os
+PIL
+cv2
+shutil
+numpy
+tqdm
+pillow_heif
